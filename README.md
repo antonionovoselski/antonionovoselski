@@ -25,17 +25,19 @@ Experienced in development, deployment and managing applications across multiple
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/antonio-novoselski-35b250204/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="https://github.com/antonionovoselski" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://antonionovoselski.vercel.app/" target="_blank">
-🌍 Portfolio Website
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -44,16 +46,20 @@ Experienced in development, deployment and managing applications across multiple
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=ts" height="50"/>
-<img src="https://skillicons.dev/icons?i=cs" height="50"/>
-<img src="https://skillicons.dev/icons?i=angular" height="50"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=ts" height="55"/>
+<img src="https://skillicons.dev/icons?i=cs" height="55"/>
+<img src="https://skillicons.dev/icons?i=angular" height="55"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+height="55"
+/>
 
 </p>
 
@@ -65,25 +71,24 @@ Experienced in development, deployment and managing applications across multiple
 - CI/CD Pipelines
 - Environment Configuration
 - Application Deployment
-- Version Control (Git)
 - Release Management
+- Git Version Control
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Focus
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=antonionovoselski&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionovoselski&layout=compact&theme=tokyonight"/>
-
-</p>
+```txt
+Building scalable software
+Optimizing deployments
+Creating production-ready applications
+Improving architecture & performance
+```
 
 ---
 
 <p align="center">
-Always building • Always learning 🚀
+
+Software Engineer • Full Stack Developer • Always Building 🚀
+
 </p>
