@@ -61,7 +61,7 @@ Experienced in development, deployment and managing applications across multiple
 
 ```txt
 Building scalable software
-Optimizing deployments
+Deploying applications across environments
 Creating production-ready applications
 Improving architecture & performance
 ```
