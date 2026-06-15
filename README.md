@@ -41,7 +41,9 @@ Experienced in development, deployment and managing applications across multiple
 ## 🛠 Languages & Tools
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,cs,angular,bootstrap,html,css,postman,mysql,mssql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,bootstrap,html,css,postman,mysql" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" />
 </p>
 
 ---
