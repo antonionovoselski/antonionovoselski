@@ -14,7 +14,7 @@ Experienced in development, deployment and managing applications across multiple
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on **Apave**
-- 🌱 Working primarily with **Angular, C#, MSSQL and MySQL**
+- 🌱 Working primarily with **Angular, C# and MSSQL**
 - ☁️ Experience with **Azure DevOps**
 - 🚀 Experience with **application deployment and environment management**
 - 💡 Passionate about building complete products from development to production
