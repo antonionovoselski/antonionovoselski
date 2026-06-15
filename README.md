@@ -42,8 +42,8 @@ Experienced in development, deployment and managing applications across multiple
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,angular,bootstrap,html,css,postman,mysql" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" />
-  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" />
 </p>
 
 ---
@@ -54,7 +54,6 @@ Experienced in development, deployment and managing applications across multiple
 - CI/CD Pipelines
 - Environment Configuration
 - Application Deployment
-- Release Management
 - Git Version Control
 
 ---
