@@ -30,10 +30,6 @@ Experienced in development, deployment and managing applications across multiple
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-<a href="https://github.com/antonionovoselski" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-</a>
-
 </p>
 
 ---
