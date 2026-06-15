@@ -27,15 +27,11 @@ Experienced in development, deployment and managing applications across multiple
 <p align="left">
 
 <a href="https://www.linkedin.com/in/antonio-novoselski-35b250204/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 <a href="https://github.com/antonionovoselski" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://antonionovoselski.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 </p>
@@ -46,19 +42,14 @@ Experienced in development, deployment and managing applications across multiple
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-<img src="https://skillicons.dev/icons?i=ts" height="55"/>
-<img src="https://skillicons.dev/icons?i=cs" height="55"/>
-<img src="https://skillicons.dev/icons?i=angular" height="55"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-<img src="https://skillicons.dev/icons?i=postman" height="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img
+src="https://skillicons.dev/icons?i=js,ts,cs,angular,bootstrap,html,css,postman,mysql"
+height="60"
+/>
 
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-height="55"
+height="60"
 />
 
 </p>
